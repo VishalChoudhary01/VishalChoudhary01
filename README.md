@@ -1,3 +1,8 @@
+<div align="right" style="display: inline-block;">
+  <img src="https://komarev.com/ghpvc/?username=vishal-kumar-choudhary&color=03724d&label=👨‍💻+VISITORS+TODAY" 
+       alt="Profile Views" 
+       style="height: 25px; transform: scale(1.2); transform-origin: right;" />
+</div>
 <div align="center">
 
 # 💫 Vishal Kumar Choudhary
@@ -416,9 +421,6 @@ I'm always excited to collaborate on innovative projects, discuss frontend archi
 
 <br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=vishal-kumar-choudhary&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p>
 
 <h3>⭐ If my work resonates with you, let's connect!</h3>
 
