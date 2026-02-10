@@ -412,8 +412,8 @@ I'm always excited to collaborate on innovative projects, discuss frontend archi
 
 <br/>
 
-### 📍 Location: Patna, Bihar, India 🇮🇳
-### 📞 Phone: +91 8083561822
+### 📍 Location: Patna, Bihar, India
+
 
 <br/>
 
