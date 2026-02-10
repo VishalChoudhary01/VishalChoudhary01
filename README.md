@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 
-# 💫 Vishal Kumar Choudhary
+# Vishal Kumar Choudhary
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=false&width=800&height=80&lines=UX%2FUI+Developer+%F0%9F%8E%A8;Master+of+Figma+to+Code+%F0%9F%8E%AF;Motion+%26+Animation+Specialist+%E2%9C%A8;Pixel-Perfect+Craftsman+%F0%9F%92%8E;React+Ecosystem+Expert+%E2%9A%9B%EF%B8%8F&color=0fc5f5&gradient=6366F1,8B5CF6,A78BFA,EC4899,F59E0B">
