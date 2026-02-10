@@ -4,6 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=80&lines=UX%2FUI+Developer+%F0%9F%8E%A8;Master+of+Figma+to+Code+%F0%9F%8E%AF;Motion+%26+Animation+Specialist+%E2%9C%A8;Pixel-Perfect+Craftsman+%F0%9F%92%8E;React+Ecosystem+Expert+%E2%9A%9B%EF%B8%8F" alt="Typing Animation" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=false&width=800&height=80&lines=UX%2FUI+Developer+%F0%9F%8E%A8;Master+of+Figma+to+Code+%F0%9F%8E%AF;Motion+%26+Animation+Specialist+%E2%9C%A8;Pixel-Perfect+Craftsman+%F0%9F%92%8E;React+Ecosystem+Expert+%E2%9A%9B%EF%B8%8F&color=A78BFA&gradient=6366F1,8B5CF6,A78BFA,EC4899,F59E0B">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=false&width=800&height=80&lines=UX%2FUI+Developer+%F0%9F%8E%A8;Master+of+Figma+to+Code+%F0%9F%8E%AF;Motion+%26+Animation+Specialist+%E2%9C%A8;Pixel-Perfect+Craftsman+%F0%9F%92%8E;React+Ecosystem+Expert+%E2%9A%9B%EF%B8%8F&color=A78BFA&gradient=6366F1,8B5CF6,A78BFA,EC4899,F59E0B" alt="Typing Animation with Gradient" />
+</picture>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend_Developer-React_Ecosystem-6366F1?style=for-the-badge&labelColor=1e293b&color=6366F1" alt="Frontend Developer"/>
   <img src="https://img.shields.io/badge/Based_in-Patna,_India-10b981?style=for-the-badge&labelColor=1e293b&color=10b981" alt="Location"/>
@@ -31,10 +36,11 @@
   <a href="https://www.linkedin.com/in/vishal-kumar-choudhary-frontend-developer/" target="_blank">
     <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" height="35"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:vishal.bhumca21@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" height="35"/>
-  </a>
+ 
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📧_vishal.bhumca21@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b" alt="Email" height="35"/>
 </p>
 
 <br/>
