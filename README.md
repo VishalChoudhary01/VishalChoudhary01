@@ -3,14 +3,14 @@
 # ✨ Vishal Kumar Choudhary
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=false&width=800&height=80&lines=UX%2FUI+Developer+%F0%9F%8E%A8;Master+of+Figma+to+Code+%F0%9F%8E%AF;Motion+%26+Animation+Specialist+%E2%9C%A8;Pixel-Perfect+Craftsman+%F0%9F%92%8E;React+Ecosystem+Expert+%E2%9A%9B%EF%B8%8F&color=A78BFA&gradient=6366F1,8B5CF6,A78BFA,EC4899,F59E0B">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=false&width=800&height=80&lines=UX%2FUI+Developer+%F0%9F%8E%A8;Master+of+Figma+to+Code+%F0%9F%8E%AF;Motion+%26+Animation+Specialist+%E2%9C%A8;Pixel-Perfect+Craftsman+%F0%9F%92%8E;React+Ecosystem+Expert+%E2%9A%9B%EF%B8%8F&color=0fc5f5&gradient=6366F1,8B5CF6,A78BFA,EC4899,F59E0B">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=false&width=800&height=80&lines=UX%2FUI+Developer+%F0%9F%8E%A8;Master+of+Figma+to+Code+%F0%9F%8E%AF;Motion+%26+Animation+Specialist+%E2%9C%A8;Pixel-Perfect+Craftsman+%F0%9F%92%8E;React+Ecosystem+Expert+%E2%9A%9B%EF%B8%8F&color=A78BFA&gradient=6366F1,8B5CF6,A78BFA,EC4899,F59E0B" alt="Typing Animation with Gradient" />
 </picture>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend_Developer-React_Ecosystem-6366F1?style=for-the-badge&labelColor=1e293b&color=6366F1" alt="Frontend Developer"/>
-  <img src="https://img.shields.io/badge/Based_in-Patna,_India-10b981?style=for-the-badge&labelColor=1e293b&color=10b981" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open_to-Opportunities-f59e0b?style=for-the-badge&labelColor=1e293b&color=f59e0b" alt="Status"/>
+  <img src="https://img.shields.io/badge/Frontend_Developer-React_Ecosystem-6366F1?style=for-the-badge&labelColor=1e293b&color=09a6cf" alt="Frontend Developer"/>
+  <img src="https://img.shields.io/badge/Based_in-Patna,_India-10b981?style=for-the-badge&labelColor=1e293b&color=05a24a" alt="Location"/>
+  <img src="https://img.shields.io/badge/Open_to-Opportunities-f59e0b?style=for-the-badge&labelColor=1e293b&color=0679a5" alt="Status"/>
 </p>
 
 ### 💫 Crafting Immersive Digital Experiences
@@ -234,11 +234,11 @@ Creating **smooth, purposeful animations** that enhance UX without compromising 
 
 <p>
   <a href="https://crypto-tracker-live-link.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-10b981?style=for-the-badge&logoColor=white&labelColor=1e293b" height="36" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-016c49?style=for-the-badge&logoColor=1b25ce&labelColor=1e293b" height="36" alt="Live Demo"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/vishal-kumar-choudhary/crypto-tracker" target="_blank">
-    <img src="https://img.shields.io/badge/💻_Source_Code-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b" height="36" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/💻_Source_Code-036a75?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b" height="36" alt="GitHub"/>
   </a>
 </p>
 
@@ -262,11 +262,11 @@ Creating **smooth, purposeful animations** that enhance UX without compromising 
 
 <p>
   <a href="https://trailor-ride-live.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-10b981?style=for-the-badge&logoColor=white&labelColor=1e293b" height="36" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-016c49?style=for-the-badge&logoColor=white&labelColor=1e293b" height="36" alt="Live Demo"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/vishal-kumar-choudhary/trailor-ride" target="_blank">
-    <img src="https://img.shields.io/badge/💻_Source_Code-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b" height="36" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/💻_Source_Code-036a75?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b" height="36" alt="GitHub"/>
   </a>
 </p>
 
@@ -290,11 +290,11 @@ Creating **smooth, purposeful animations** that enhance UX without compromising 
 
 <p>
   <a href="https://amrutam-live.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-10b981?style=for-the-badge&logoColor=white&labelColor=1e293b" height="36" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-016c49?style=for-the-badge&logoColor=white&labelColor=1e293b" height="36" alt="Live Demo"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/vishal-kumar-choudhary/amrutam" target="_blank">
-    <img src="https://img.shields.io/badge/💻_Source_Code-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b" height="36" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/💻_Source_Code-036a75?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b" height="36" alt="GitHub"/>
   </a>
 </p>
 
@@ -337,7 +337,7 @@ Creating **smooth, purposeful animations** that enhance UX without compromising 
 ### 📜 Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/Full_Stack_Web_Developer-f59e0b?style=for-the-badge&logo=google&logoColor=white&labelColor=1e293b" height="36" alt="Certification"/>
+  <img src="https://img.shields.io/badge/Full_Stack_Web_Developer-312a01?style=for-the-badge&logo=google&logoColor=white&labelColor=0f0f0a" height="36" alt="Certification"/>
 </p>
 
 </div>
