@@ -174,19 +174,25 @@ Creating **smooth, purposeful animations** that enhance UX without compromising 
 <th width="20%">Duration</th>
 <th width="15%">Type</th>
 </tr>
+<tr>
+<td><b>Associate Software Developer</b></td>
+<td>Tetr College of Business</td>
+<td>Feb 2026 – May 2026</td>
+<td><img src="https://img.shields.io/badge/Full Time-6366F1?style=flat-square&labelColor=1e293b" alt="Intern"/></td>
+</tr>
 
 <tr>
 <td><b>Frontend Developer</b></td>
 <td>BI Hub Solution</td>
 <td>Aug 2025 – Oct 2025</td>
-<td><img src="https://img.shields.io/badge/Intern-6366F1?style=flat-square&labelColor=1e293b" alt="Intern"/></td>
+<td><img src="https://img.shields.io/badge/Full Time-6266F1?style=flat-square&labelColor=10293b" alt="Full Time"/></td>
 </tr>
 
 <tr>
 <td><b>Software Developer</b></td>
 <td>Cling Multi Solution Pvt. Ltd.</td>
 <td>Sept 2024 – Dec 2024</td>
-<td><img src="https://img.shields.io/badge/Intern-6366F1?style=flat-square&labelColor=1e293b" alt="Intern"/></td>
+<td><img src="https://img.shields.io/badge/Intern-6366F1?style=flat-square&labelColor=1e093b" alt="Full Time"/></td>
 </tr>
 
 <tr>
